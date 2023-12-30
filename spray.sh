@@ -4,4 +4,4 @@
 source venv/bin/activate
 
 # Run the Python script
-python spray.py
+python3 spray.py
